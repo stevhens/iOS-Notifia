@@ -1,5 +1,7 @@
 #  Notifia
 
+![Notifia-Logo](Documentation/iOS-Notifia.png)
+
 ## Outline
 
 This app makes me learn about UserNotifications and SwiftUI NavigationView. This app developed in SwiftUI.
