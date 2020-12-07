@@ -14,7 +14,3 @@ Notifia App is an iOS app demo to show notifications a few seconds after clickin
 
 * UserNotifications
 * SwiftUI NavigationView
-
-## Demo
-
-![Notifia-Demo](Documentation/iOS-Notifia.gif)
